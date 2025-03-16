@@ -13,7 +13,7 @@ Projekt został stworzony przy użyciu języka Python i platformy Jupyter Notebo
 
 1. **Klonowanie repozytorium**
    ```bash
-   git clone <URL_REPOZYTORIUM>
+   git clone [<URL_REPOZYTORIUM>](https://github.com/abioveprincipium/Noaa-demo_deco.git)
    cd NOAA-demo_deco
 2. **Instalacja zależności**
 
